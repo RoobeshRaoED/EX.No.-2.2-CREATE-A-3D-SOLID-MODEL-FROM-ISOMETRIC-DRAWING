@@ -106,7 +106,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 Output:
 
-![](EX 2.2 ROOBESH RAO.E.D IMG.jpg)
+![](EX%202.2%20ROOBESH%20RAO.E.D%20IMG.jpg)
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
